@@ -63,3 +63,5 @@ rosrun teleop_twist_keyboard teleop_twist_keyboard.py
   - 실행시, 방향키 설명이 나오니 u,i,j ... 등의 키를 이용해서 제어합니다.
   - Twist 메시지의 제어값을 확인하려면 rostopic echo cmd_vel
   - Odom 메시지의 변화를 확인하려면 rostopic echo odom
+
+![isaac-sim-joint-carter-teleop](https://user-images.githubusercontent.com/69780812/129910526-d72dc24b-472e-4928-8c13-abda28e71e8b.gif)
