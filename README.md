@@ -16,6 +16,10 @@
   - carter
 - 현재 Repository를 git clone 해주세요.
 ## My Running Order
+```shell
+cd IsaacSim-carter-Teleop/run_docker_container
+sudo sh start-isaac-sim-with-meldoic.sh
+```
 ### 1. Carter URDF 불러오기
 ![image](https://user-images.githubusercontent.com/69780812/129904216-45c73be0-6eeb-4c29-9685-a79175bb5458.png)
 - 상단 메뉴에서 Isaac Utils > URDF Importer
@@ -27,6 +31,7 @@
 
 ![image](https://user-images.githubusercontent.com/69780812/129904443-48e05415-7e9e-46a1-99ee-e23d9693779e.png)
 - 위를 실행한 후에 Click Import Robot To Stage
+
 ### 2. Carter Properties 설정 준비 및 진행
 ![image](https://user-images.githubusercontent.com/69780812/129905467-cf7798a2-f6f4-473b-9cea-016aea018529.png)
 - carter를 /World 로 Drag 해서 넣어줍니다. (필요한 과정은 아닌 것 같긴함.)
