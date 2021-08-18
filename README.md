@@ -24,6 +24,8 @@ cd IsaacSim-carter-Teleop/run_docker_container
 sudo sh start-isaac-sim-with-meldoic.sh
 ```
 ### 1. Carter URDF 불러오기
+- Create > Physics > Ground Plane 
+
 ![image](https://user-images.githubusercontent.com/69780812/129904216-45c73be0-6eeb-4c29-9685-a79175bb5458.png)
 - 상단 메뉴에서 Isaac Utils > URDF Importer
 
