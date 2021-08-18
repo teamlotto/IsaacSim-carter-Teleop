@@ -1,5 +1,8 @@
 # IsaacSim-carter-Teleop
 ![image](https://user-images.githubusercontent.com/69780812/129903573-0dbb98df-da47-4c87-ab13-d8683fcc0848.png)
+
+![isaac-sim-joint-carter-teleop](https://user-images.githubusercontent.com/69780812/129910526-d72dc24b-472e-4928-8c13-abda28e71e8b.gif)
+
 ## PREPARATION
 - ros-melodic
   - ROS Master (Server, 로컬 환경에서 roscore 실행) 
